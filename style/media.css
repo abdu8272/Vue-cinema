@@ -391,24 +391,6 @@
     width: 220px;
   }
   .intro {
-    height: 320px;
-  }
-
-  .header_top {
-    padding: 10px 0;
-  }
-
-  .header_top img {
-    width: 35px;
-  }
-
-  .intro_title {
-    font-size: 31px;
-  }
-  .footer_title{
-    font-size: 16px;
-  }
-  .footer_logos{
-    gap: 15px;
+    height: 320p;
   }
 }
